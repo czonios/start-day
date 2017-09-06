@@ -2,12 +2,12 @@
 
 ## Overview
 
-This repository contains a script, written in Python, that I run when I sit at my computer every morning in order to automate opening some browser tabs to check out and play some music while I drink my morning coffee. I added a small bash script in my /bin so I can run it just by opening a terminal (Ctrl+Alt+T), typing `start-day` and pressing Enter.
+This repository contains a script, written in Python, that I run when I sit at my computer every morning in order to automate opening some browser tabs to check out and play some music while I drink my morning coffee. I added a small bash script in my /bin (the instructions are to create another /bin in your home folder for safety) so I can run it just by opening a terminal (Ctrl+Alt+T), typing `start-day` and pressing Enter.
 
 ## Dependencies
 
-Python 3
-Git
+  * Python 3
+  * Git
 
 ## Set up (Linux)
 
